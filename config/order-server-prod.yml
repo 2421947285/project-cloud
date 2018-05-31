@@ -1,5 +1,5 @@
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/springcloud?characterEncoding=utf-8
-    data-username: root
-    data-password: LRS123456
+    username: root
+    password: LRS123456
